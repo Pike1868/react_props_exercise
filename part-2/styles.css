@@ -1,0 +1,20 @@
+body {
+  margin: auto;
+}
+.tweet {
+  background-color: lightblue;
+  padding: 0.5rem;
+  border: 1px solid gray;
+  border-radius: 0.25rem;
+  margin: 1rem auto;
+  max-width: 500px;
+}
+
+.tweetMsg {
+  padding: 0.5rem;
+}
+
+.tweetName {
+  font-style: italic;
+  font-size: 0.8rem;
+}

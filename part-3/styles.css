@@ -1,0 +1,11 @@
+body {
+  margin: auto;
+}
+.person {
+  background-color: rgb(185, 230, 173);
+  padding: 0.5rem;
+  border: 1px solid gray;
+  border-radius: 0.25rem;
+  margin: 1rem auto;
+  max-width: 500px;
+}
